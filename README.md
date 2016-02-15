@@ -1,3 +1,5 @@
+# Bioinfo-Learn
+------------------
 # *Zea Mays* SNP Calling
 We sequenced three lines of *zea mays*, using paired-end
 sequencing. This sequencing was done by our sequencing core and we
