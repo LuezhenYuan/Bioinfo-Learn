@@ -79,3 +79,4 @@ print(a)
 ```
 
 find . -name README.md|xargs git add
+Learn to use git
